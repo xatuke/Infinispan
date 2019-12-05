@@ -1,7 +1,8 @@
 # Infinispan
 for GCI
 
-For starting the project make sure you have maven installed.
+For starting the project make sure you have maven and infinispan server installed.
+- Download or clone the repository
 - Open Terminal
 - `cd infinispan`
 -  start infinispan server
